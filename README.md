@@ -42,7 +42,7 @@ The LSTM model itself, trained on 20000 and some observation and was able to rea
 Then I evaluated my models on a bunch of headlines from the New York times from a variety of years. 
 
 | Year | % predicted as real news |
-| _____ | ______ | 
+| --- | --- | 
 | 03-20 to 12-21 | 84.24% |
 | 2016 | 81.70% |
 | 2000 | 64.95% |
