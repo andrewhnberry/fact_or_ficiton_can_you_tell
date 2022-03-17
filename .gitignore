@@ -1,1 +1,7 @@
 files/scraping_NYT_headline.ipynb
+data/nyt_headlines0320-1221.csv
+data/nyt_headlines1851.csv
+data/nyt_headlines1852.csv
+data/nyt_headlines1969.csv
+data/nyt_headlines2000.csv
+data/nyt_headlines2016.csv
